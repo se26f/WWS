@@ -1,2 +1,2 @@
 # WWS
-Wait Well System (WWS)
+Group 1 - Wait Well System (WWS)
